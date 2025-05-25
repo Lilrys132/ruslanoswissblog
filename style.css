@@ -4,8 +4,8 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alpen_bei_Grindelwald.jpg/1920px-Alpen_bei_Grindelwald.jpg');
   background-size: cover;
-  background-position: center;
   background-repeat: no-repeat;
+  background-position: center;
   height: 100vh;
   color: white;
   text-shadow: 1px 1px 3px black;
@@ -21,3 +21,4 @@ p {
   text-align: center;
   font-size: 24px;
 }
+
